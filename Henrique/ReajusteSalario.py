@@ -6,3 +6,4 @@ CalculoDeSalario = (float(a)+float(calculoDeReajuste))
 
 print(float(calculoDeReajuste))
 print(float(CalculoDeSalario))
+print(float(CalculoDeSalario))
